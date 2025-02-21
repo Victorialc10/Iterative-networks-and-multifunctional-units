@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sources_1/imports/3-Pattern_files/definitions.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sources_1/new/iterative_1D.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'iterative_1D'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sources_1/new/state_cell.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'state_cell'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sim_1/imports/3-Pattern_files/test_pattern.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_pattern'

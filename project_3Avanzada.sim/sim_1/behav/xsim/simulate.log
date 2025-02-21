@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Error: Error with din2, got 2 patterns instead of 2
+Time: 150 ns  Iteration: 0  Process: /test_pattern/stim_proc  File: C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sim_1/imports/3-Pattern_files/test_pattern.vhd
+Error: Error with din1, got 3 patterns instead of 2
+Time: 250 ns  Iteration: 0  Process: /test_pattern/stim_proc  File: C:/Users/victo/OneDrive/Documentos/5 ao/TOC/project_3Avanzada/project_3Avanzada.srcs/sim_1/imports/3-Pattern_files/test_pattern.vhd
