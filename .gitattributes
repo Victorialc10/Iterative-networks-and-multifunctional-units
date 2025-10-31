@@ -1,7 +1,11 @@
-# Exclude Vivado project metadata from language stats
+# Tell GitHub Linguist to ignore Vivado project metadata
 *.tcl linguist-detectable=false
 *.xpr linguist-detectable=false
 *.xml linguist-detectable=false
 *.log linguist-detectable=false
 *.jou linguist-detectable=false
 *.str linguist-detectable=false
+*.dcp linguist-detectable=false
+*.ltx linguist-detectable=false
+*.xsa linguist-detectable=false
+
